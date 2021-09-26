@@ -1,0 +1,16 @@
+.game {
+    width: 79.78042086%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 49.5495495495%;
+    border: 10px grey ridge;
+    background-color: #5c99ff;
+} 
+.block {
+    display: none;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
